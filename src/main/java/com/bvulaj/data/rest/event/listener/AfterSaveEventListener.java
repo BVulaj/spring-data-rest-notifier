@@ -14,7 +14,7 @@ import org.springframework.hateoas.Link;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Service;
 
-import com.vnomicscorp.common.event.exception.UndeliverableEventException;
+import com.bvulaj.data.rest.event.exception.UndeliverableEventException;
 
 /**
  * @author Brandon Vulaj
